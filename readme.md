@@ -1,0 +1,1 @@
+用于理解spark的迭代计算原理，实现了MapPartitionRDD.
